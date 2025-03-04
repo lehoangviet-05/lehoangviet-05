@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, welcome to my page👋
 
 <!--
 **lehoangviet-05/lehoangviet-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
